@@ -1,0 +1,1 @@
+learning the to program is hard, learning curve is steep but don't get discouraged with genAI tools now

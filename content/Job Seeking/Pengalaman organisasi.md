@@ -1,0 +1,4 @@
+Pengalaman organisasi saya meliputi peran sebagai Ketua Angkatan Farmasi selama 4 tahun, di mana saya bertanggung jawab mengurus kebutuhan akademik mahasiswa seperti masalah KRS dan persuratan. Di luar kampus, saya menjadi Wakil NGO Kejar Mimpi selama 2 tahun. Tugas saya di sana mencakup manajemen event rutin mingguan dan bulanan, menjalin kemitraan eksternal antar NGO, serta menjaga komunikasi internal tim.
+
+## karya luar biasa di kuliah
+Secara akademik, saya pernah mengikuti pertukaran pelajar di Universitas Gorontalo serta skema pembelajaran daring di Universitas Airlangga dan Universitas Semarang selama 1 semester. Secara non-akademik, saya meraih Juara 1 Lomba Bisnis tingkat universitas dan Juara 1 Lomba Menulis Buku Anak di tingkat provinsi

@@ -1,0 +1,1 @@
+would you take other people opinion for granted?

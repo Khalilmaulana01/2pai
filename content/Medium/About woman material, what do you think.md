@@ -1,0 +1,5 @@
+- high maintenance
+- affected by tiktok
+- other people life standar
+- cost for living is just as high as fuk
+- 
