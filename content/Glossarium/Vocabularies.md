@@ -1,3 +1,7 @@
+---
+github_repo: Khalilmaulana01|obsidian-vault
+github_issue: 1
+---
 1. scratch (v) = menggaruk; menggores (v);  garukan; goresan (n)
 2. wave(v) = melambai; gelombang (n)
 3. shoelace = tali sepatu
