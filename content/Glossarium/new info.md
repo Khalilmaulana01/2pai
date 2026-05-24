@@ -12,4 +12,6 @@
 	6. perda
 7. uji materil (judicial review) MK -> UU terhadap UUD
 8. uji materil (judicial review) MA -> PP atau dibawahnya terhadap UU
-9. 
+9. ahbar = ulama yahudi
+10. rahib = pendeta nasrani 
+11. 

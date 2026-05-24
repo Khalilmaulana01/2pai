@@ -146,7 +146,7 @@ github_issue: 1
 142. engage = melibatkan; mengikutsertakan (v)
 143. conduct = mengadakan (v); perilaku; tindakan; tata kelola (n)
 144. misconduct = pelanggaran; perbuatan jahat (n); berbuat jahat (v)
-145. stake = mempertaruhkan 
+145. stake = mempertaruhkan (v); tonggak (n)
 146. stakeholder = pemangku-kebijakan
 147. trustworthy = terpercaya (adj)
 148. diversity = keberagaman (n)
@@ -1048,4 +1048,26 @@ github_issue: 1
 1044. astonish = mencengangkan (v)
 1045. baffle = membingungkan (v)
 1046. perplex = membingungkan (v)
-1047. 
+1047. emit = memancarkan; mengeluarkan (v)
+1048. wrangle = bertengkar (v)
+1049. quarrel = pertengkaran (n); bertengkar; cekcok (v)
+1050. hostess = wanita yg menyambut tamu; nyonya rumah (n)
+1051. air hostess = pramugrari
+1052. remedy = obat (n); memperbaiki (v)
+1053. mint = mencetak (v); permen; daum mint; percetakan uang logam (n)
+1054. maneuver = manuver
+1055. odds = kemungkinan; kesempatan (n)
+1056. goose = angsa; orang bodoh (n)
+1057. suite = sederetan; rangkaian (n)
+1058. upfront = dimuka (adv)
+1059. poke = menyodok; 
+1060. feature = menonjolkan (v); fiturl ciri (n)
+1061. bile = empedu 
+1062. jab = menusuk (v); pukuran pendek dan cepat (n)
+1063. blow =  pukulan (n); meniup (v)
+1064. stem = batang (n); membendung (v)
+1065. pithy = ringkas dan tajam; banyak inti (adj)
+1066. pith = intisari; sari 
+1067. rind = kulit buah (n)
+1068. peel = mengupas (v)
+1069. 
